@@ -1,0 +1,22 @@
+.quote-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    text-align: center;
+    font-family: 'Mooli', sans-serif;
+    color: #333;
+    font-weight: bolder;
+  }
+  
+  .quote {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .author {
+    font-size: 23px;
+    font-style: italic;
+  }
+
