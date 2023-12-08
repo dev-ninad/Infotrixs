@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infotrixs/static/css/main.2f5a2f5a.css",
+    "main.js": "/Infotrixs/static/js/main.bafbde95.js",
+    "index.html": "/Infotrixs/index.html",
+    "main.2f5a2f5a.css.map": "/Infotrixs/static/css/main.2f5a2f5a.css.map",
+    "main.bafbde95.js.map": "/Infotrixs/static/js/main.bafbde95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5a2f5a.css",
+    "static/js/main.bafbde95.js"
+  ]
+}
